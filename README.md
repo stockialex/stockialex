@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @stockialex a web developer from Argentina
-- 👀 I’m interested in web and mobile development
 - 🌱 I’m currently learning React and Django, I'm always looking for a way to improve my skills
 - 📫 How to reach me: alexstocki.dev@gmail.com
 
