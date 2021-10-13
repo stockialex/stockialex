@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @stockialex a web developer from Argentina
-- 🌱 I’m currently learning React and Django, I'm always looking for a way to improve my skills
+- 🌱 I'm passionate about developing using React js and interested in improving my skills with solidity.
 - 📫 How to reach me: alexstocki.dev@gmail.com
 
 <!---
